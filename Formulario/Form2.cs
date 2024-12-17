@@ -24,5 +24,14 @@ namespace Formulario
 
             this.Close();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            string nombreUsuario = Form1.GetNombre();
+            string contraseñaUsuario = Form1.GetContraseña();
+
+            label1.Text = $"Bienvenido usuario, su nombre es {nombreUsuario} y su contraseña es {contraseñaUsuario}";
+
+        }
     }
 }

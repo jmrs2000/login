@@ -12,9 +12,9 @@ namespace Formulario
 {
     public partial class Form1 : Form
     {
-        private string nombre = "paco";
+        private static string nombre = "paco";
 
-        private string contraseña = "contraseña";
+        private static string contraseña = "contraseña";
 
         public Form1()
         {
@@ -51,6 +51,16 @@ namespace Formulario
                 MessageBox.Show("No son iguales, error");
             }
 
+        }
+
+        public static string GetNombre()
+        {
+            return nombre;
+        }
+
+        public static string GetContraseña()
+        {
+            return contraseña;
         }
     }
 }
