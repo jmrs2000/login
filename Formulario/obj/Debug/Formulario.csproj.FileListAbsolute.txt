@@ -41,3 +41,4 @@ C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.C
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.Up2Date
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.exe
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.Form2.resources
