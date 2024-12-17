@@ -36,15 +36,19 @@ namespace Formulario
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if ((textBox1.Text == nombre) && (textBox2.Text == nombre))
+            if ((textBox1.Text == nombre) && (textBox2.Text == contraseña))
             {
-                MessageBox.Show("Conexion establecida");
+                MessageBox.Show("Conexión establecida");
 
+                Form2 form2 = new Form2();
+
+                form2.Show();
+
+                this.Hide();
             }
             else
             {
                 MessageBox.Show("No son iguales, error");
-
             }
 
         }
