@@ -19,6 +19,7 @@ namespace Formulario
         public Form1()
         {
             InitializeComponent();
+<<<<<<< HEAD
 
         }
 
@@ -61,6 +62,9 @@ namespace Formulario
         public static string GetContraseña()
         {
             return contraseña;
+=======
+            Data.Conection.OpenConection();
+>>>>>>> conection
         }
     }
 }

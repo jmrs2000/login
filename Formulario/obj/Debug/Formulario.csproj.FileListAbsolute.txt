@@ -34,11 +34,17 @@ C:\Users\Alumno\source\repos\Formulario\Formulario\bin\Debug\System.Numerics.Vec
 C:\Users\Alumno\source\repos\Formulario\Formulario\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Alumno\source\repos\Formulario\Formulario\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+<<<<<<< HEAD
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.Form1.resources
+=======
+>>>>>>> conection
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.Properties.Resources.resources
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.csproj.Up2Date
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.exe
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.pdb
+<<<<<<< HEAD
 C:\Users\Alumno\source\repos\Formulario\Formulario\obj\Debug\Formulario.Form2.resources
+=======
+>>>>>>> conection
